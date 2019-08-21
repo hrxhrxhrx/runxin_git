@@ -1,1 +1,2 @@
 I want to study git,i like it
+I commit test.txt to git
