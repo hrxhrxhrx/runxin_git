@@ -3,4 +3,4 @@ I commit test.txt to git
 I love git
 hello git
 i love you
-
+I hate you
